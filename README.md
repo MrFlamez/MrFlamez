@@ -50,6 +50,12 @@ I am a mechatronic engineer who works in automotive industry (automatic transmis
 
 <hr>
 
+## :mailbox: Contact me on
+
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/MrDiskette)
+
+<hr>
+
 ##### Thx for visiting my profile
 
 <hr>
