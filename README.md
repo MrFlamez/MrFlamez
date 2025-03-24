@@ -1,7 +1,5 @@
 # Hi there 👋
 
-✨ This is where the magic happens ✨
-
 I am a mechatronic engineer who works in automotive industry (automatic transmission) with an affinity for the automation of (boring/interesting) things.
 
 <hr>
